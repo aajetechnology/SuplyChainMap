@@ -1,7 +1,7 @@
 [
     {
         "state_name": "Abia",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -10,7 +10,7 @@
     },
     {
         "state_name": "Adamawa",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -19,7 +19,7 @@
     },
     {
         "state_name": "Akwa Ibom",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -28,7 +28,7 @@
     },
     {
         "state_name": "Anambra",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -37,7 +37,7 @@
     },
     {
         "state_name": "Bauchi",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -46,7 +46,7 @@
     },
     {
         "state_name": "Bayelsa",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -55,7 +55,7 @@
     },
     {
         "state_name": "Benue",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -64,7 +64,7 @@
     },
     {
         "state_name": "Borno",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -73,7 +73,7 @@
     },
     {
         "state_name": "Cross River",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -82,7 +82,7 @@
     },
     {
         "state_name": "Delta",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -91,7 +91,7 @@
     },
     {
         "state_name": "Ebonyi",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -100,7 +100,7 @@
     },
     {
         "state_name": "Edo",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -109,7 +109,7 @@
     },
     {
         "state_name": "Ekiti",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -118,7 +118,7 @@
     },
     {
         "state_name": "Enugu",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -127,16 +127,16 @@
     },
     {
         "state_name": "FCT - Abuja",
-        "product": "Rice",
-        "demand_score": 81,
+        "product": "Sugar",
+        "demand_score": 60,
         "supply_score": 65,
-        "trend": "stable",
-        "shortage_risk": "medium",
+        "trend": "falling",
+        "shortage_risk": "low",
         "opportunity": false
     },
     {
         "state_name": "Gombe",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -145,7 +145,7 @@
     },
     {
         "state_name": "Imo",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -154,7 +154,7 @@
     },
     {
         "state_name": "Jigawa",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -163,7 +163,7 @@
     },
     {
         "state_name": "Kaduna",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -172,16 +172,16 @@
     },
     {
         "state_name": "Kano",
-        "product": "Rice",
-        "demand_score": 81,
+        "product": "Sugar",
+        "demand_score": 60,
         "supply_score": 65,
-        "trend": "stable",
-        "shortage_risk": "medium",
+        "trend": "falling",
+        "shortage_risk": "low",
         "opportunity": false
     },
     {
         "state_name": "Katsina",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -190,7 +190,7 @@
     },
     {
         "state_name": "Kebbi",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -199,7 +199,7 @@
     },
     {
         "state_name": "Kogi",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -208,7 +208,7 @@
     },
     {
         "state_name": "Kwara",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -217,16 +217,16 @@
     },
     {
         "state_name": "Lagos",
-        "product": "Rice",
-        "demand_score": 81,
+        "product": "Sugar",
+        "demand_score": 60,
         "supply_score": 65,
-        "trend": "stable",
-        "shortage_risk": "medium",
+        "trend": "falling",
+        "shortage_risk": "low",
         "opportunity": false
     },
     {
         "state_name": "Nasarawa",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -235,7 +235,7 @@
     },
     {
         "state_name": "Niger",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -244,7 +244,7 @@
     },
     {
         "state_name": "Ogun",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -253,7 +253,7 @@
     },
     {
         "state_name": "Ondo",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -262,7 +262,7 @@
     },
     {
         "state_name": "Osun",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -271,7 +271,7 @@
     },
     {
         "state_name": "Oyo",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -280,7 +280,7 @@
     },
     {
         "state_name": "Plateau",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -289,7 +289,7 @@
     },
     {
         "state_name": "Rivers",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -298,7 +298,7 @@
     },
     {
         "state_name": "Sokoto",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -307,7 +307,7 @@
     },
     {
         "state_name": "Taraba",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -316,7 +316,7 @@
     },
     {
         "state_name": "Yobe",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
@@ -325,7 +325,7 @@
     },
     {
         "state_name": "Zamfara",
-        "product": "Rice",
+        "product": "Sugar",
         "demand_score": 60,
         "supply_score": 65,
         "trend": "falling",
